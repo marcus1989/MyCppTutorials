@@ -1,6 +1,6 @@
 // A simple program to show all the if, if - else and if - elseif cases.
 
-//if condition//
+//if condition - Basic program//
 #include<iostream>
 #include<string>
 
