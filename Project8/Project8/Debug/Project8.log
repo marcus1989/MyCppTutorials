@@ -1,0 +1,6 @@
+﻿  OtherTypes.cpp
+c:\users\ambat\desktop\cpp_tutorials\project8\project8\othertypes.cpp(18): warning C4305: 'initializing': truncation from 'int' to 'char'
+c:\users\ambat\desktop\cpp_tutorials\project8\project8\othertypes.cpp(18): warning C4309: 'initializing': truncation of constant value
+c:\users\ambat\desktop\cpp_tutorials\project8\project8\othertypes.cpp(24): warning C4305: 'initializing': truncation from 'int' to 'wchar_t'
+c:\users\ambat\desktop\cpp_tutorials\project8\project8\othertypes.cpp(24): warning C4309: 'initializing': truncation of constant value
+  Project8.vcxproj -> C:\Users\ambat\Desktop\Cpp_tutorials\Project8\Debug\Project8.exe

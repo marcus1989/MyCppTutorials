@@ -1,0 +1,3 @@
+﻿  FloatingPointTypes.cpp
+c:\users\ambat\desktop\cpp_tutorials\project7\project7\floatingpointtypes.cpp(9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Project7.vcxproj -> C:\Users\ambat\Desktop\Cpp_tutorials\Project7\Debug\Project7.exe
