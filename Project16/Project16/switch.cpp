@@ -23,6 +23,10 @@ int main() {
 	case 6:
 		cout << "The value is 6" << endl;
 		break;
+
+	default :
+
+		cout << "Quitting" << endl;
 	}
 	
 	system("pause");
